@@ -1,7 +1,20 @@
-# Magisk Module Template
+# Magisk Module Call Recorder EMUI 8.0
 
-**Update `README.md` if you want to submit your module to the online repo!** This `README.md` will be shown in a Webview dialog when a user taps your module in Magisk Manager, so make sure to place some information / changelog / notes here.
+Call Recorder for Huawei devices running EMUI 8.0
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+If you want record automatically calls follow these steps:
+- Open Dialer
+- Settings
+- Scroll down
+- Automatically record calls
+- Enable it, done
 
-For more information about modules and repos, please check the [official documentation](https://topjohnwu.github.io/Magisk/)
+See video:
+https://streamable.com/cx3rd
+
+Note:
+- Call recordings can be found in the Recorder app or in the Dialer Settings
+- The recorder files are stored in the location /SD_Card/Sounds/CallRecord
+
+Changelog
+1.0 Initial release 2018-10-20
