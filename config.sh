@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "   CallRecorder for EMUI 8.1   "
+  ui_print "   CallRecorder for EMUI 9.0   "
   ui_print "*******************************"
 }
 
