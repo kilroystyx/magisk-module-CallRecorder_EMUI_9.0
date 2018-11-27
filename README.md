@@ -1,6 +1,6 @@
-# Magisk Module Call Recorder EMUI 8.1
+# Magisk Module Call Recorder EMUI 9.0
 
-Call Recorder for Huawei devices running EMUI 8.1
+Call Recorder for Huawei devices running EMUI 9.0
 
 If you want record automatically calls follow these steps:
 - Open Dialer
