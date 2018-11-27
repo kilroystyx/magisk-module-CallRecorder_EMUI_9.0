@@ -10,7 +10,7 @@ If you want record automatically calls follow these steps:
 
 Note:
 - Call recordings can be found in the Recorder app or in the Dialer Settings
-- The recorder files are stored in the location /SD_Card/Sounds/CallRecord
+- The recorder files are stored in the location /sdcard/Sounds/CallRecord
 
 Changelog
 1.0 Initial release 2018-11-27
